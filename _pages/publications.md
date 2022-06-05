@@ -5,12 +5,15 @@ permalink: /publications/
 author_profile: true
 ---
 
-{% if author.googlescholar %}
-  You can also find my articles on <u><a href="{{author.googlescholar}}">my Google Scholar profile</a>.</u>
-{% endif %}
 
-{% include base_path %}
+## 2022
+- __Melih Yilmaz__, William E. Fondrie, Wout Bittremieux, Sewoong Oh,  William Stafford Noble     
+**De novo mass spectrometry peptide sequencing with a transformer model**  
+International Conference on Machine Learning (ICML), 2022.    
+[\[Paper\]](https://www.biorxiv.org/content/10.1101/2022.02.07.479481v1) / [\[Code\]](https://github.com/Noble-Lab/casanovo) 
 
-{% for post in site.publications reversed %}
-  {% include archive-single.html %}
-{% endfor %}
+## 2021
+- Amee D Azad, __Melih Yilmaz__, Selen Bozkurt, James D Brooks, Douglas W Blayney, Tina Hernandez‐Boussard     
+**Diverse patient trajectories during cytotoxic chemotherapy: Capturing longitudinal patient‐reported outcomes**  
+Cancer Medicine, 2021.    
+[\[Paper\]](https://onlinelibrary.wiley.com/doi/pdf/10.1002/cam4.4124) 
