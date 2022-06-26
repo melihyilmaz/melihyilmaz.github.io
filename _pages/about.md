@@ -14,4 +14,5 @@ Previously, I was a Research Intern at [Stanford BMIR](https://bmir.stanford.edu
 For more details, refer to my [CV](https://melihyilmaz.github.io/files/melih_yilmaz_cv.pdf).
 
 ## News
+- __June 2022__: I've joined [Novo Nordisk](https://www.novonordisk-us.com/about/who-we-are/seattle-wa.html) Computational Drug Discovery team as a machine learning research intern for the summer.
 - __May 2022__: Our paper [De novo mass spectrometry peptide sequencing with a transformer model](https://www.biorxiv.org/content/10.1101/2022.02.07.479481v1) was accepted to __ICML 2022__, see you in Baltimore!
