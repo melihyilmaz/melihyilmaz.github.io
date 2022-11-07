@@ -7,9 +7,11 @@ redirect_from:
   - /about.html
 ---
 ## About me
-I'm a second-year PhD student at the [Paul G. Allen School of Computer Science & Engineering, University of Washington](https://www.cs.washington.edu/), where I'm fortunate to be advised by [William Noble](https://noble.gs.washington.edu/~wnoble/) and [Sewoong Oh](https://homes.cs.washington.edu/~sewoong/). My research interests are in Machine Learning, Computational Biology and Biomedical Data Science. Focusing on proteomics, my current research builds deep learning methods to analyze mass spectrometry data.
+I'm a third-year PhD student at the [Paul G. Allen School of Computer Science & Engineering, University of Washington](https://www.cs.washington.edu/), where I'm fortunate to be advised by [William Noble](https://noble.gs.washington.edu/~wnoble/) and [Sewoong Oh](https://homes.cs.washington.edu/~sewoong/). My research interests are in Machine Learning and Computational Biology. Focusing on proteomics, my current research builds deep learning methods to analyze mass spectrometry data.
 
-Previously, I was a Research Intern at [Stanford BMIR](https://bmir.stanford.edu) with [Tina Hernandez-Boussard](https://med.stanford.edu/boussard-lab/people/tina_hernandez_boussard.html). I received a B.Sc. in Electrical Engineering from Koc University, where I worked with [Murat Tekalp](http://home.ku.edu.tr/~mtekalp/).
+Previously, I was a Research Intern at [Stanford BMIR](https://bmir.stanford.edu) with [Tina Hernandez-Boussard](https://med.stanford.edu/boussard-lab/people/tina_hernandez_boussard.html). I received a B.Sc. in Electrical Engineering from [Koc University](https://www.ku.edu.tr/en/), where I worked with [Murat Tekalp](http://home.ku.edu.tr/~mtekalp/).
+
+Pursuing my passion for biotech entrepreneurship and community building, I've founded the Pacific Northwest chapter of [Nucleate](https://nucleate.xyz/), a global trainee-led nonprofit supporting emerging entrepreneurs in biotech and helping them spin out of academic labs. (featured in [GeekWire](https://www.geekwire.com/2022/biotech-training-camp-founded-by-students-launches-in-seattle/))
 
 For more details, refer to my [CV](https://melihyilmaz.github.io/files/melih_yilmaz_cv.pdf).
 
