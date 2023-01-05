@@ -16,6 +16,6 @@ Pursuing my passion for biotech entrepreneurship and community building, I've fo
 For more details, refer to my [CV](https://melihyilmaz.github.io/files/melih_yilmaz_cv.pdf).
 
 ## News
-- __January 2023__: Our new preprint [Sequence-to-sequence translation from mass spectra to peptides with a transformer model](https://www.biorxiv.org/content/10.1101/2023.01.03.522621v1) further advancing the state of the of the art in de novo peptide sequencing and tackling a range of applications in proteomics is on bioRxiv.
+- __January 2023__: Our new preprint [Sequence-to-sequence translation from mass spectra to peptides with a transformer model](https://www.biorxiv.org/content/10.1101/2023.01.03.522621v2) further advancing the state of the of the art in de novo peptide sequencing and tackling a range of applications in proteomics is on bioRxiv.
 - __June 2022__: I've joined [Novo Nordisk](https://www.novonordisk-us.com/about/who-we-are/seattle-wa.html) Computational Drug Discovery team as a machine learning research intern for the summer.
 - __May 2022__: Our paper [De novo mass spectrometry peptide sequencing with a transformer model](https://proceedings.mlr.press/v162/yilmaz22a.html) was accepted to __ICML 2022__, see you in Baltimore!
