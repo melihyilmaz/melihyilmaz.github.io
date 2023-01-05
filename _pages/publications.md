@@ -8,7 +8,7 @@ author_profile: true
 - __Melih Yilmaz\*__, William E. Fondrie\*, Wout Bittremieux, Rowan Nelson, Varun Ananth, Sewoong Oh,  William Stafford Noble     
 **Sequence-to-sequence translation from mass spectra to peptides with a transformer model** <br />
 bioRxiv, 2023.<br />
-[\[Paper\]](https://www.biorxiv.org/content/10.1101/2023.01.03.522621v1) / [\[Code\]](https://github.com/Noble-Lab/casanovo).  
+[\[Paper\]](https://www.biorxiv.org/content/10.1101/2023.01.03.522621v2) / [\[Code\]](https://github.com/Noble-Lab/casanovo).  
 
 ## 2022
 - __Melih Yilmaz__, William E. Fondrie, Wout Bittremieux, Sewoong Oh,  William Stafford Noble     
