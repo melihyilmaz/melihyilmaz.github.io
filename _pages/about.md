@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 ## About me
-I'm a third-year PhD student at the [Paul G. Allen School of Computer Science & Engineering, University of Washington](https://www.cs.washington.edu/), where I'm fortunate to be advised by [William Noble](https://noble.gs.washington.edu/~wnoble/) and [Sewoong Oh](https://homes.cs.washington.edu/~sewoong/). My research interests are in Machine Learning and Computational Biology. Focusing on proteomics, my current research builds deep learning methods to analyze mass spectrometry data.
+I'm a fourth-year PhD student at the [Paul G. Allen School of Computer Science & Engineering, University of Washington](https://www.cs.washington.edu/), where I'm fortunate to be advised by [William Noble](https://noble.gs.washington.edu/~wnoble/) and [Sewoong Oh](https://homes.cs.washington.edu/~sewoong/). My research interests are in Machine Learning and Computational Biology. Focusing on proteomics, my current research builds deep learning methods to analyze mass spectrometry data.
 
 Previously, I was a Research Intern at [Stanford BMIR](https://bmir.stanford.edu) with [Tina Hernandez-Boussard](https://med.stanford.edu/boussard-lab/people/tina_hernandez_boussard.html). I received a B.Sc. in Electrical Engineering from [Koc University](https://www.ku.edu.tr/en/), where I worked with [Murat Tekalp](http://home.ku.edu.tr/~mtekalp/).
 
@@ -16,6 +16,7 @@ Pursuing my passion for biotech entrepreneurship and community building, I've fo
 For more details, refer to my [CV](https://melihyilmaz.github.io/files/melih_yilmaz_cv.pdf).
 
 ## News
+- __June 2023__: I've joined [David Kelley](https://www.calicolabs.com/people/david-kelley-ph-d)'s lab at [Calico](https://www.calicolabs.com/) as an intern to work on machine learning for regulatory genomics. Let me know if you're in the Bay Area this summer!
 - __January 2023__: Our new preprint [Sequence-to-sequence translation from mass spectra to peptides with a transformer model](https://www.biorxiv.org/content/10.1101/2023.01.03.522621v2) further advancing the state of the of the art in de novo peptide sequencing and tackling a range of applications in proteomics is on bioRxiv.
 - __June 2022__: I've joined [Novo Nordisk](https://www.novonordisk-us.com/about/who-we-are/seattle-wa.html) Computational Drug Discovery team as a machine learning research intern for the summer.
 - __May 2022__: Our paper [De novo mass spectrometry peptide sequencing with a transformer model](https://proceedings.mlr.press/v162/yilmaz22a.html) was accepted to __ICML 2022__, see you in Baltimore!
