@@ -7,9 +7,9 @@ redirect_from:
   - /about.html
 ---
 ## About me
-I'm a fourth-year PhD student at the [Paul G. Allen School of Computer Science & Engineering, University of Washington](https://www.cs.washington.edu/), where I'm fortunate to be advised by [William Noble](https://noble.gs.washington.edu/~wnoble/) and [Sewoong Oh](https://homes.cs.washington.edu/~sewoong/). My research interests are in Machine Learning and Computational Biology. Focusing on proteomics, my current research builds deep learning methods to analyze mass spectrometry data.
+I'm a fourth-year PhD student at the [Paul G. Allen School of Computer Science & Engineering, University of Washington](https://www.cs.washington.edu/), where I'm fortunate to be advised by [William Noble](https://noble.gs.washington.edu/~wnoble/) and [Sewoong Oh](https://homes.cs.washington.edu/~sewoong/). My research interests are in Machine Learning and Computational Biology. My current research builds deep learning methods to model biological sequences, chiefly in mass spectrometry-based proteomics.
 
-Previously, I was a Research Intern at [Calico Life Sciences](https://www.calicolabs.com/), [Novo Nordisk](https://www.novonordisk-us.com/about/who-we-are/seattle-wa.html) and [Stanford BMIR](https://bmir.stanford.edu). I received a B.Sc. in Electrical Engineering from [Koc University](https://www.ku.edu.tr/en/), where I worked with [Murat Tekalp](http://home.ku.edu.tr/~mtekalp/).
+Previously, I was a research intern at [Calico Life Sciences](https://www.calicolabs.com/), [Novo Nordisk](https://www.novonordisk-us.com/about/who-we-are/seattle-wa.html) and [Stanford BMIR](https://bmir.stanford.edu). I received a B.Sc. in Electrical Engineering from [Koc University](https://www.ku.edu.tr/en/), where I worked with [Murat Tekalp](http://home.ku.edu.tr/~mtekalp/).
 
 Pursuing my passion for biotech entrepreneurship and community building, I've founded the Pacific Northwest chapter of [Nucleate](https://nucleate.xyz/), a global trainee-led nonprofit supporting emerging entrepreneurs in biotech and helping them spin out of academic labs. (featured in [GeekWire](https://www.geekwire.com/2022/biotech-training-camp-founded-by-students-launches-in-seattle/))
 
