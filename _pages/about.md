@@ -16,6 +16,7 @@ Pursuing my passion for biotech entrepreneurship and community building, I've fo
 For more details, refer to my [CV](https://melihyilmaz.github.io/files/melih_yilmaz_cv.pdf).
 
 ## News
+- __June 2024__: I've joined Amazon as an applied scientist intern to work on protein language models.
 - __July 2023__: I've joined [Joshua Elkington](https://www.linkedin.com/in/elkingtonjoshua/) on [Axial Podcast](https://open.spotify.com/episode/5f2O7J2eD2dhuAkU78SRVi?si=fKlSKdpeRwSgjR7gOQXsxA&nd=1) to talk about ML in computational biology and my research journey. 
 - __June 2023__: I've joined [David Kelley](https://www.calicolabs.com/people/david-kelley-ph-d)'s lab at [Calico](https://www.calicolabs.com/) as an intern to work on machine learning for regulatory genomics.
 - __January 2023__: Our new preprint [Sequence-to-sequence translation from mass spectra to peptides with a transformer model](https://www.biorxiv.org/content/10.1101/2023.01.03.522621v2) further advancing the state of the of the art in de novo peptide sequencing and tackling a range of applications in proteomics is on bioRxiv.
