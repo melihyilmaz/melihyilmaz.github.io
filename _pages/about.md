@@ -16,7 +16,7 @@ Pursuing my passion for biotech entrepreneurship and community building, I've fo
 For more details, refer to my [CV](https://melihyilmaz.github.io/files/melih_yilmaz_cv.pdf).
 
 ## News
-- __March 2025__: I have joined Amazon as an Applied Scientist to work in the AWS Health AI team!
+- __April 2025__: I have joined Amazon as an Applied Scientist to work in the AWS Health AI team!
 - __July 2024__: My main PhD project [Sequence-to-sequence translation from mass spectra to peptides with a transformer model](https://www.nature.com/articles/s41467-024-49731-x) is published in __*Nature Communications*__!
 - __June 2024__: I've joined Amazon as an applied scientist intern to work on multimodal protein language models.
 - __July 2023__: I've joined [Joshua Elkington](https://www.linkedin.com/in/elkingtonjoshua/) on [Axial Podcast](https://open.spotify.com/episode/5f2O7J2eD2dhuAkU78SRVi?si=fKlSKdpeRwSgjR7gOQXsxA&nd=1) to talk about ML in computational biology and my research journey. 
