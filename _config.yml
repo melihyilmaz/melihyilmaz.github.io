@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Melih Yilmaz"
 title_separator          : "-"
 name                     : &name "Melih Yilmaz"
-description              : &description "CS Ph.D. student at the University of Washington "
+description              : &description "Applied Scientist at Amazon "
 url                      : https://melihyilmaz.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "melihyilmaz/melihyilmaz.github.io"
@@ -82,7 +82,7 @@ analytics:
 author:
   name             : "Melih Yilmaz"
   avatar           : "melih_headshot.png"
-  bio              : "CS PhD student at the University of Washington"
+  bio              : "Applied Scientist at Amazon"
   location         : "Seattle, WA"
   employer         :
   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
